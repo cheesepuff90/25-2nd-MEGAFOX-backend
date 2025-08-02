@@ -62,3 +62,6 @@
   * `GET`/booking (예매내역 확인)
   * `GET`/booking/reserve (예매페이지 불러오기/날짜별 상영시간 필터링)
   * `POST`/booking/reserve (영화 예매하기)
+
+## Demo
+https://user-images.githubusercontent.com/73053147/139662421-ce2e5b56-0a9b-451e-861a-84021e20f429.mov
